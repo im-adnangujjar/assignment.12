@@ -1,0 +1,84 @@
+.paragraphs3 {
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 62px;
+  color: #0f2b4a;
+  margin: 60px 50px 15px 50px;
+}
+.paragraphs4 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #576b81;
+  margin: 15px 50px 48px 50px;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 50px 0px 50px;
+}
+.button3 {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  height: 30px;
+  background-color: #2289ff;
+  color: white;
+  border-radius: 5px;
+}
+.display4 {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
+.price {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29px;
+  color: #2289ff;
+}
+.case {
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #0f2b4a;
+}
+.tribune {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  color: #576b81;
+}
+.button {
+  width: 50%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2289ff;
+  color: White;
+  border-radius: 5px;
+}
+.button1 {
+  width: 50%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #2289ff;
+  color: #2289ff;
+  border-radius: 5px;
+}
+.images3 {
+  width: 20px;
+  height: 20px;
+}
+.display5 {
+  display: flex;
+  justify-content: space-between;
+}

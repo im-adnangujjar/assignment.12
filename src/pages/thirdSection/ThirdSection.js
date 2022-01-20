@@ -1,27 +1,22 @@
 import React from 'react';
-import {Row ,Col} from 'react-bootstrap'
 import './ThirdSection.css'
-
+import { Row, Col } from "react-bootstrap"
 
 export default function ThirdSection() {
-  return(
-    <div className='color'>
-<div>
-<Row> 
-<Col lg={6}>
-<p className='paragraph3'>Talk to a Redfin Agent</p>
-<div><p className='paragraph4'>Start your search with an expert local agent—there’s no pressure or obligation.</p></div>
-</Col>
-<Col lg={6}>
-    <p className='paragraph4'>Where are you searching for homes?</p>
-   
-       <input type="text" placeholder='search' className='input'/><img src="./assets/search.png"/>
-         
-</Col>
-</Row>
-   
-</div>
-    </div>
-  
-  )
+    return (
+        <div>
+            <p>TESTIMONIALS</p>
+
+
+
+
+           <div className="flex1" >
+           <p className="paragraphs5">We are very pleased with the way Besnik handled our purchase of a lake home. He was prompt, friendly, and very knowledgeable. He followed up on any and all concerns.</p>
+           </div>
+                <p className='paragraphs6'>Becky Nelson</p>
+                <div className='images4'>
+                <img src="assets/Group 101.png"/>
+                </div>
+        </div>
+    );
 }
