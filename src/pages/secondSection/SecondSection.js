@@ -5,11 +5,11 @@ export default function SecondSection() {
     return (
         <div>
             <Row>
-                <Col lg={6}>
+                <Col lg={6} md={6} sm={6}>
                     <p className='paragraphs3'>Our trending latest proparty</p>
                     <p className='paragraphs4'>Our unique process gives you peace of mind from home rent to services</p>
                 </Col>
-                <Col lg={6}>
+                <Col lg={6} md={6} sm={6}>
                     <div className='flex'>
                         <select >
 
@@ -25,7 +25,7 @@ export default function SecondSection() {
             </Row>
             <div>
                 <Row>
-                    <Col lg={6}>
+                    <Col lg={6} md={6} sm={6}>
                         <div className='display4'>
                             <div style={{ width: "45px" }}>
                                 <img src="assets/pexels-expect-best-1269560 1.png" />
@@ -65,7 +65,7 @@ export default function SecondSection() {
                         </div>
 
                     </Col>
-                    <Col lg={6}>
+                    <Col lg={6} md={6} sm={6}>
                         <div className='display4'>
                             <div style={{ width: "45px" }}>
                                 <img src="assets/iamge.png" />

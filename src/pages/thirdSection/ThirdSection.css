@@ -1,10 +1,29 @@
+.paragraphs8{
+
+font-size: 48px;
+font-weight: 600;
+line-height: 58px;
+text-align: center;
+color: #0F2B4A;
+}
+.paragraphs7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 42px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+  color: #576B81;
+
+}
 .paragraphs5{
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
 text-align: center;
 color: #576B81;
-width:50%
+margin-top :40px;
 }
 .paragraphs6{
     text-align: center;
@@ -13,10 +32,7 @@ font-weight: 500;
 line-height: 24px;
 color: #0F2B4A;
 }
-.flex1{
-    display: flex;
-    justify-content: center;
-}
+
 .images4{
 display: flex;
 justify-content: center;

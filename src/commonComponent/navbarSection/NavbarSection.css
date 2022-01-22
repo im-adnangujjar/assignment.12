@@ -1,0 +1,33 @@
+.buttons1{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width:100px;
+    height: 40px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    color: blue;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.buttons2{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width:100px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.headings1{
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    margin-left: 50px;
+    margin-top:20px;
+}
